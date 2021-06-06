@@ -11,7 +11,7 @@ Some added functionality to be included are syncing tasks to Google Calender and
 All written in Typescript. 
 
 # About Listify-v1
-Listify is a productivity app that manages your todo lists by segregating them into different categories.
+Listify is a productivity app that manages your todo lists by segregating them into different categories. Find at [Listify](https://list-ify.herokuapp.com/)
 
 ## Tech Stack
 1. NodeJS (Express)
